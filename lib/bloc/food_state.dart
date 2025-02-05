@@ -17,6 +17,7 @@ class FoodState extends Equatable {
   }
 
   @override
+
   List<Object?> get props => [foodList];
 
 }
